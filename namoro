@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/marcelo14k/tudoparanamorados.git
+git add .
+git commit -m "Site TudoParaNamorados"
+git push -u origin master
